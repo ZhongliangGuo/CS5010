@@ -26,7 +26,7 @@ For the Exam notes, they are all taken by me, written by latex (but I only share
 
 Two assignments from Oggie and Lei.
 
-The first one is an essay, I got 15/20 (but I think I deserve higher one   ￣_￣   )
+The first one is an essay, I got 15/20 (but I think I deserve higher   ￣_￣   )
 
 The second one is a report, its score has not released yet. I will update it
 
