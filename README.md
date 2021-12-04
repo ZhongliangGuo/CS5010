@@ -32,7 +32,7 @@ The second one is a report, its score has not released yet. I will update it
 
 ## Past exam
 
-Past exam. This year both two teachers are new. So the exam papers do not have the value to refer.
+Past exam. This year both two teachers are new. So the past exam papers do not have the value to refer.
 
 ## Final exam
 
