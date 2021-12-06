@@ -36,7 +36,7 @@ Past exam. This year both two teachers are new. So the past exam papers do not h
 
 ## 2021 Exam
 
-I uploaded both exam paper and my answer here.
+I uploaded both exam paper and my answer here. (answer will be available until socre is released)
 
 The Learning part is provided by Oggie, the last question I have no ideas about that so I just searched it in textbook and CSDN. I cannot confirm that my answer is correct because I didn't fully understand it.
 
