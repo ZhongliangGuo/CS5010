@@ -28,7 +28,7 @@ Two assignments from Oggie and Lei.
 
 The first one is an essay, I got 15/20 (but I think I deserve higher   ￣_￣   )
 
-The second one is a report, Igot 17/20
+The second one is a report, I got 17/20
 
 ## Past Exam
 
