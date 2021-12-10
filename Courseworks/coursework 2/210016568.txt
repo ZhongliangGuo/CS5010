@@ -1,0 +1,18 @@
+ID 
+ 210016568
+
+Part 1 BN 
+ Excellent. I find 1 out 10 people showing COVID symptom is a little bit too large: it translates to 10% of UK population are constantly sick!
+
+Part 2 Queries 
+ Excellent. To measure the reduction of uncertainty, you can also use entropy.
+
+Part 2 
+ Some pros and cons are discussed. The discussion could have been  a bit more in-depth and technical. For example: How about the inference algorithm? Do we have efficient algorithm to make inference for a complicated network ? How about structure of a BN? Can AI learn that as well ? Afterall, BN can only provide a distribution or probabilities, and they are not verdict! is 90% guilty enough for a guilty verdict ? why not 99%?  Shall we use different thresolds for different crimes as some crims are petty but some are more serious ? how the parameters of a BN can be determined ? Bayesian or frequentist? If purely based on data, how to avoid black swan paradox (check last question of tutorial 8)?
+
+Overall 
+ An excellent attempt.
+
+Grade 
+ 17
+
