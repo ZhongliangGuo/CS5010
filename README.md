@@ -8,8 +8,6 @@ key words: `CS5010` `Artificial Intelligence Principles` `University of St Andre
 
 In this section, it is divided into two teachers' part, **[Oggie](mailto:oa7@st-andrews.ac.uk)** (Lecture 1 - 9) and **[Lei](mailto:lf28@st-andrews.ac.uk)** (Lecture 10 - 19).
 
-I strongly recommend you watch Lei's Lecture, for Oggie's part, you can just read the notes (illustrate it later).
-
 ## Tutorials
 
 In this section, Oggie didn't provide anything, all the tutorial materials provided by Lei.
@@ -26,7 +24,7 @@ For the exam notes, they are all taken by me, written by latex (but I only share
 
 Two assignments from Oggie and Lei.
 
-The first one is an essay, I got 15/20 (but I think I deserve higher   ￣_￣   )
+The first one is an essay, I got 15/20
 
 The second one is a report, I got 17/20 (tbh I hate essay... the essay part of this report fucked me seriously XD)
 
