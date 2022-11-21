@@ -8,12 +8,6 @@ key words: `CS5010` `Artificial Intelligence Principles` `University of St Andre
 
 In this section, it is divided into two teachers' part, **[Oggie](mailto:oa7@st-andrews.ac.uk)** (Lecture 1 - 9) and **[Lei](mailto:lf28@st-andrews.ac.uk)** (Lecture 10 - 19).
 
-## Tutorials
-
-In this section, Oggie didn't provide anything, all the tutorial materials provided by Lei.
-
-Lei's tutorial is very very useful, must watch it!
-
 ## Notes
 
 For the Lecture notes, they are taken by different guys. The authors are: **[Won](mailto:hwwnc1@st-andrews.ac.uk)** (Lecture 1, 2, 7), me (Lecture 4), **[Ethan](mailto:eh250@st-andrews.ac.uk)** (Lecture 5, 6), **[Rafael](mailto:rk81@st-andrews.ac.uk)** (Lecture 8, 9).
